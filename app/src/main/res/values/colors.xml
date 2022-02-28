@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#f14b2e</color>
+    <color name="secondary">#55575c</color>
+    <color name="background">#878787</color>
+    <color name="lightGray">#dadae0</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="cardColor">#dadae0</color>
+    <color name="priceColor">#3F810B</color>
+    <color name="buy">#60B120</color>
+</resources>
