@@ -2,21 +2,17 @@
 
 ## Aplicação desenvolvida para a loja Smart Game Ltda.
 
-### Linguagens e ferramentas utilizadas
+### Linguagem Utilizada:
 
-* Linguagem utilizada: Kotlin
+* Kotlin
 
-### Pré-requisitos necessários para rodar o projeto
+### Instruções:
 
-- Possuir a IDE Android Studio na versão 4.1.3.
+- Clone o Projeto em sua máquina.
 
-- Possuir um dispositivo emulador com API mínima 26.
-
-- Clonar o Projeto em sua máquina.
-
-- Possuir o Backend https://github.com/lorranasantos/smart-games-back.git e inicializá-lo
+- Inicialize o Backend.
 
 - Inserir o Ip da sua máquina no arquivo "UrlApi" em: src/main/java/com/example/smartgame/api/UrlApi.kt
 
-- Iniciar a Aplicação.
+- Inicie a Aplicação.
 
